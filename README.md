@@ -1,4 +1,4 @@
-# python-exercise
+# Python-exercise
 ## I. Monte Carlo method
 ### EX1.蒙地卡羅方法模擬擲骰之勝率
 模擬對方擲骰所得點數若干次，藉此求得當自身點數為X時之勝率  
